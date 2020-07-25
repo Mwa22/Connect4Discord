@@ -1,0 +1,11 @@
+{
+	"token": "TOKEN HERE",
+	"prefix": "!",
+	"bots": {
+		"easyBot": "🙂",
+		"normalBot": "😎",
+		"stupidBot": "🤪",
+		"randomBot": "🎲",
+		"cheatBot": "👽"
+	}
+}

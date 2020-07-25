@@ -1,0 +1,25 @@
+{
+  "name": "connect4",
+  "version": "1.0.0",
+  "description": "A Connect-Four game on Discord.",
+  "main": "main.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node main.js",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mwa22/Connect4Discord.git"
+  },
+  "author": "Thomas Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mwa22/Connect4Discord/issues"
+  },
+  "homepage": "https://github.com/Mwa22/Connect4Discord#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "cross-env": "^7.0.2",
+    "discord.js": "^12.2.0"
+  }
+}
